@@ -86,7 +86,9 @@
         "groups": [
           {
             "group": "Basic Information",
-            "pages": []
+            "pages": [
+              "basic-information"
+            ]
           }
         ]
       },
